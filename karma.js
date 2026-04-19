@@ -1,4 +1,4 @@
 (function () {
 	'use strict';
-	Lampa.Utils.putScriptAsync(['https://o.rly-kaarmaa.workers.dev/js'], function () { });
+	Lampa.Utils.putScriptAsync(['https://js.rly-kaarmaa.workers.dev'], function () { });
 })();
